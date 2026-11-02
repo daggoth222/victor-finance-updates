@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "stable",
   "release": {
-    "version": "0.2.8",
+    "version": "0.2.9",
     "platform": "windows-x64",
-    "url": "https://github.com/daggoth222/victor-finance-updates/releases/download/v0.2.8/VICTOR-Finance-Windows-x64.zip",
-    "sha256": "2eff73eef874d1f9704ffedd9ccc0ddcdba217952b58fa527bdf2a1dd55631ab",
-    "size": 74516068,
-    "notes": "VICTOR Finance 0.2.8 — correctif Windows\nCorrection du bouton Surveiller, des noms et symboles des candidats de l’Équipe Marché, et de la progression du repérage (actifs traités / total). Aucun ajout fonctionnel majeur dans ce correctif. Installation automatique depuis VF 0.2.7; la correction du premier clic introduite en 0.2.7 est conservée."
+    "url": "https://github.com/daggoth222/victor-finance-updates/releases/download/v0.2.9/VICTOR-Finance-Windows-x64.zip",
+    "sha256": "15179eed277a7770327ffe24a8471e429b0291c07c64363a99966a3d14ddd1ff",
+    "size": 74558848,
+    "notes": "VICTOR Finance 0.2.9 — retour des fonctions web dans Windows\nFiches d’actifs enrichies, actualités et provenance; graphiques courbe/chandeliers, périodes, intervalles, moyenne 20, volume, zoom, déplacement et historique ancien; suivi, collecte et qualité; gestion des actifs par division et portefeuilles détaillés; réglages versionnés et décisions de l’Équipe Marché, avis FAST; supervision et journaux; actualisation avec protection des champs en cours de saisie; présentation sombre et valeurs lisibles. Laboratoire, Android, comptes et installation automatique conservés. Aucun trading réel ajouté."
   }
 }
