@@ -1,5 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "release": null
+  "release": {
+    "version": "0.2.5",
+    "platform": "windows-x64",
+    "url": "https://github.com/daggoth222/victor-finance-updates/releases/download/v0.2.5/VICTOR-Finance-Windows-x64.zip",
+    "sha256": "a254287c6c278599fcf84a188ac8d8cd9ec0a25476a6be4bfe42437a47a440e3",
+    "size": 74498552,
+    "notes": "VF 0.2.5 — Connexion et comptes : œil pour afficher/masquer le mot de passe; réinitialisation avec votre Google Authenticator existant; création d’un compte supplémentaire autorisée dans le même profil VF; association par QR ou clé manuelle. Le compte supplémentaire partage les données du profil. Les sessions PC/mobile sont fermées après récupération. Fermez VF puis extrayez le ZIP complet dans un nouveau dossier; vos données restent dans le profil Windows. Signature éditeur toujours reportée."
+  }
 }
