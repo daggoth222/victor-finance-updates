@@ -185,7 +185,7 @@ def main():
                 target_commitish="main",
                 name="VICTOR Finance " + version,
                 body=release["notes"]
-                + "\n\nWindows x64. Paquet portable vérifié; installation manuelle après téléchargement depuis VF. Signature éditeur reportée.\n\n"
+                + "\n\nWindows x64. Depuis VF 0.2.6 : installation automatique (la première transition peut nécessiter un second clic). Versions antérieures : fermer VF et extraire le ZIP complet. Signature éditeur reportée.\n\n"
                 + proof,
                 draft=True,
                 prerelease=False,
