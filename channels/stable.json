@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "stable",
   "release": {
-    "version": "0.2.10",
+    "version": "0.2.11",
     "platform": "windows-x64",
-    "url": "https://github.com/daggoth222/victor-finance-updates/releases/download/v0.2.10/VICTOR-Finance-Windows-x64.zip",
-    "sha256": "e56455e4f38dd8f3ed70d885ecfbb708b91d82f9711dd81c99086ccaf8978ea3",
-    "size": 74559150,
-    "notes": "VICTOR Finance 0.2.10 — finitions et corrections Windows\nFormat français des cours et variations dans Marché, signe des hausses et petits pourcentages non arrondis à zéro; compteurs de qualité à zéro distingués des données inconnues; Entrée applique les filtres et Échap les annule sans les enregistrer; date de dernière vérification des mises à jour et lien des versions publiées. Les fonctions de la 0.2.9, comptes, Android et installation automatique sont conservés."
+    "url": "https://github.com/daggoth222/victor-finance-updates/releases/download/v0.2.11/VICTOR-Finance-Windows-x64.zip",
+    "sha256": "34ac9041c00dd2a5049c2b2b29f88ba03c81c6afe39ca6175c5716ce82994292",
+    "size": 74561089,
+    "notes": "VICTOR Finance 0.2.11 — couleurs des variations et rendements\nVert pour les variations et rendements positifs, rouge pour les négatifs : liste Marché, fiches d’actifs, expériences et résultats du laboratoire. Les baisses maximales non nulles sont rouges. Zéro et valeurs inconnues restent neutres. Couleurs conservées à la sélection et à l’actualisation."
   }
 }
