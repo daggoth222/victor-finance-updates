@@ -1,0 +1,27 @@
+name: Publish verified VF update
+on:
+  push:
+    branches: [main]
+    paths: ['release-request.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: vf-public-release
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify candidate, publish immutable release, then activate channel
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPOSITORY: ${{ github.repository }}
+        run: python .github/scripts/publish_release.py
