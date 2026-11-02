@@ -1,7 +1,7 @@
 {
-  "state": "published",
-  "version": "0.2.7",
-  "source_sha": "8f00f4d16b6618755bd3e9f87bc58a161d337f43",
-  "package_sha256": "3ca67a3556b40d378bec527d2694e1aad496d5c2fd0ddfa963d850d66a4f5a7b",
-  "release_url": "https://github.com/daggoth222/victor-finance-updates/releases/tag/v0.2.7"
+  "state": "pending",
+  "version": "0.2.8",
+  "source_sha": "e7e541242684100224ab0a70adb990369e51337f",
+  "artifact_sha256": "8d7b25efce40f310fee741b843c265e43c2380e104c6d21667523ed13c6e4152",
+  "artifact_url": "https://sdmntprcentralus.oaiusercontent.com/files/00000000-85bc-81f5-b62d-158ace9d6858/raw?se=2026-11-02T18%3A59%3A33Z&sp=r&sv=2026-02-06&sr=b&scid=29f73821-6e71-4050-895e-cbefa7f7d9a0&skoid=77636ecc-ad8d-44df-baa7-163b524a0261&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-02T14%3A42%3A03Z&ske=2026-11-03T14%3A42%3A03Z&sks=b&skv=2026-02-06&sig=zrHfXNBeE53rLSXsDxxoniLcrfWAeA06xECrKzgNkC0%3D"
 }
