@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "stable",
   "release": {
-    "version": "0.2.13",
+    "version": "0.2.14",
     "platform": "windows-x64",
-    "url": "https://github.com/daggoth222/victor-finance-updates/releases/download/v0.2.13/VICTOR-Finance-Windows-x64.zip",
-    "sha256": "2f539b3407945cb5e63d376df168057a516003241cce9a8e1009ab45882d34b0",
-    "size": 74639601,
-    "notes": "0.2.13 — Laboratoire, stratégies, IA et courtiers\nBENCH-01 versionné, questionnaire de stratégies, comparaison des campagnes compatibles, tests techniques IA et affectation des rôles, catalogues actualisables, comptes Kraken en lecture seule avec coffre Windows. Aucun ordre réel ni transfert."
+    "url": "https://github.com/daggoth222/victor-finance-updates/releases/download/v0.2.14/VICTOR-Finance-Windows-x64.zip",
+    "sha256": "8c4fb24a160e8d4301565888658901ab5afe2dc89fd142d94a9a8388df122e44",
+    "size": 74640257,
+    "notes": "0.2.14 — Sessions sans limite de durée\nSuppression complète de l’expiration horaire des sessions PC et mobiles, avec migration des installations existantes. Les comptes, la connexion initiale et la déconnexion volontaire sont conservés. Aucun ordre réel ni transfert."
   }
 }
